@@ -1,0 +1,23 @@
+# c-larsson — Swedish Arts and Crafts: muted greens, warm red and cream
+# cmus color theme | NIRU CMUS THEMES 1.0.0
+set color_win_fg=lightgray
+set color_win_bg=black
+set color_title_fg=white
+set color_title_bg=green
+set color_statusline_fg=white
+set color_statusline_bg=green
+set color_cmdline_fg=white
+set color_cmdline_bg=black
+set color_error=lightred
+set color_info=lightgreen
+set color_separator=green
+set color_win_cur=yellow
+set color_win_cur_sel=black
+set color_win_sel_fg=black
+set color_win_sel_bg=yellow
+set color_win_dir=lightgreen
+set color_win_artist=yellow
+set color_win_title=white
+set color_win_album=lightgray
+set color_win_time=lightgreen
+set color_win_time_sel=black
