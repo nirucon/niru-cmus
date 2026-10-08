@@ -41,3 +41,7 @@ Theme files are plain text. No plugins, runtime dependencies, shell hooks, or pr
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Author
+
+Ing Leif Nicklas Rudolfsson
